@@ -1,8 +1,8 @@
-# Análise de Dados: Emendas Parlamentares 📊
+# Análise de Dados: Emendas Parlamentares
 
 Este projeto consiste na análise, limpeza e transformação de um conjunto de dados sobre emendas parlamentares brasileiras utilizando a biblioteca **Pandas** em Python.
 
-## 📋 Etapas do Projeto
+## Etapas do Projeto
 
 O desenvolvimento foi dividido em etapas de tratamento de dados para garantir a integridade das análises financeiras.
 
@@ -26,19 +26,19 @@ O desenvolvimento foi dividido em etapas de tratamento de dados para garantir a 
 ### 5. Exportação
 *   O DataFrame final, após todas as correções e novas colunas, foi exportado para o formato **JSON** (`emendas_transformadas.json`) com orientação por registros.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 *   **Python 3.14**
 *   **Pandas**: Manipulação e análise de dados.
 *   **JSON**: Formato para exportação de dados.
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 1. Certifique-se de ter o Python e o Pandas instalados.
 2. Clone este repositório.
 3. Execute o arquivo `.ipynb` ou `.py` para processar os dados.
 
 ---
 
-### 💡 Aprendizados Técnicos
+### Aprendizados Técnicos
 Durante o projeto, foram solucionados problemas comuns em Ciência de Dados, como:
 *   Tratamento de erros de indexação (`KeyError`).
 *   Manipulação de memória e eixos do DataFrame (`axis=1`).
